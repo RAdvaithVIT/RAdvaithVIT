@@ -1,5 +1,5 @@
 - 👋 Hi, I’m R. Advaith
-- 👀 I’m interested in AI/ML, Robotics and Automation, Blockchain and Web-Dev
+- 👀 I’m interested in AI/ML, Robotics and Automation, Blockchain, Web-Dev, ASIC and FPGA based System Design and VLSI.
 - 🌱 I’m currently studying in VIT Chennai as an Electronics and Communication student
 - 📫 How to reach me: my email id: advaith.r2023@vitstudent.ac.in
 - 😄 Pronouns: He/Her
